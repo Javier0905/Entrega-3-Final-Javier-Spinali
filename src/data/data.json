@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "titulo": "Diodos Led",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "Semiconductores",
+        "imagen": "https://megalamparas.com.gt/wp-content/uploads/2022/12/diodos-led.jpg.webp",
+        "precio": 201000,
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "titulo": "Transistores Bipolares BJT",
+        "descripcion": "Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "Semiconductores",
+        "imagen": "https://media.licdn.com/dms/image/D5612AQHnNFav9vFjyA/article-cover_image-shrink_423_752/0/1700218062967?e=1721865600&v=beta&t=zTXCje2taccDh89VwTVBOWQQJ3wRWPMaxwfIRrfM8J4",
+        "precio": 99000,
+        "stock": 7
+    },
+    {
+        "id": 3,
+        "titulo": "Capacitores Electrolíticos",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "Semiconductores",
+        "imagen": "https://www.hioki.com/image.jsp?id=34097",
+        "precio": 300000,
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "titulo": "Puente Rectificador de Diodos",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "categoria": "Semiconductor",
+        "imagen": "https://fcelectronik.com/wp-content/uploads/2022/11/Retificador5-600x557.png",
+        "precio": 1500,
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "titulo": "Transformador 220V - 24V",
+        "descripcion": "Transformador Reductor Corriente Alterna",
+        "categoria": "Semiconductor",
+        "imagen": "https://cdn.bpsolucioneselectricas.com.ar/uploads/1682455185_VEYzMDkzMi5qcGc=.jpg",
+        "precio": 70000,
+        "stock": 12
+    },
+    {
+        "id": 6,
+        "titulo": "Diodo Zéner",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "Semiconductor",
+        "imagen": "https://avelectronics.cc/wp-content/uploads/2018/09/zener-diode-500x500.jpg",
+        "precio": 54000,
+        "stock": 20
+    },
+    {
+        "id": 7,
+        "titulo": "Arduino Uno",
+        "descripcion": "Placa Microcontroladora Arduino Uno, para Proyectos de Electrónica, Informática y Robotica",
+        "categoria": "Hardware",
+        "imagen": "https://europe1.discourse-cdn.com/arduino/optimized/4X/9/f/b/9fb90d18380dfe5db971691f37395c7516c0f27b_2_690x476.jpeg",
+        "precio": 54000,
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "titulo": "Myers Planters Punch",
+        "descripcion": "Circuitos Integrados. Tecnología CMOS. Series 74LS en adelante. Para realizar circuitos con compuertas lógicas",
+        "categoria": "Semiconductor",
+        "imagen": "https://candy-ho.com/wp-content/uploads/2017/01/74ls04_1-2.png",
+        "precio": 31000,
+        "stock": 17
+    }
+]
